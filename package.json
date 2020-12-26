@@ -1,0 +1,12 @@
+{
+    "name": "hashids-ts",
+    "version": "1.0.2",
+    "main": "dist/hashids.js",
+    "types": "dist/hashids.d.ts",
+    "scripts": {
+        "build": "tsc --project tsconfig.json"
+    },
+    "devDependencies": {
+        "typescript": "*"
+    }
+}
